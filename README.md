@@ -7,6 +7,8 @@
 
 The simplified flow of data is represented by illustration below:
 
+![](https://github.com/Crkonova76/data_presentation_project/blob/master/images/architecture.PNG)
+
 ### *Business Logic*
 
 The reason for this assigned was to demonstrate the knowledge of the technologies learned in the subject.
@@ -21,6 +23,7 @@ A database created named competition.
 
 It contains two tables. The tables are not link by any foreign key. Below are displayed the description of both tables:
 
+![](https://github.com/Crkonova76/data_presentation_project/blob/master/images/Tables.PNG)
 
 
 * creating_database.py is python file containing the code to initiate the database and tables. The SQL queries added to create, update and delete records from tables.
