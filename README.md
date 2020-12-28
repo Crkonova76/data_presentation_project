@@ -3,7 +3,7 @@
 ### December 2020
 
 ## BJJ Limerick 
-#### *Repositary https://github.com/Crkonova76/gmit_data_presentation_project*
+#### *Repositary https://github.com/Crkonova76/data_presentation_project*
 
 The simplified flow of data is represented by illustration below:
 
@@ -48,3 +48,4 @@ Following files are saved ubder templates:
 #### Encounted difficulties
 
   * problems with CSS style, intention to use separate separate file which can be linked to all pages
+  * issue with GitHub-new repositary created for finale project as the issue with merging branches could not be resolved
