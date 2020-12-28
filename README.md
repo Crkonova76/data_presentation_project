@@ -30,6 +30,8 @@ It contains two tables. The tables are not link by any foreign key. Below are di
 
 * db config.py created as configuration file
 
+* database included in the project (dump_msql_data.sql)
+
 
 ### *Server*
 
